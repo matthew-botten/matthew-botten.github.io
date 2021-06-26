@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Matthew Botten</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <video playsinline autoplay muted loop id="myVideo">
+        <source poster="backgroundbubbles.jpg" src="backgroundbubbles.mp4" type="video/mp4">
+    </video>
+    <header class="menu">
+        <div class="menu-name">MATTHEW BOTTEN</div>
+        <div class="menu-buttons">About Me</div>
+        <div class="menu-buttons">Tuition</div>
+        <div class="menu-buttons">Education</div>
+        <div class="menu-buttons">Projects</div>
+        <div class="menu-buttons">Music</div>
+    </header>
+    <div class="contact"><div class="par"> To contact me please email: <a href="mailto:contact@matthewbotten.com">contact@matthewbotten.com</a></div></div>
+  </body>
+</html>
