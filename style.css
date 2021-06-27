@@ -69,6 +69,6 @@ a:visited {
 }
 a:hover {
     color: grey;
-    background-color: black;
+    background-color: rgba(0, 255, 255, 0.5);
     text-decoration: underline;
 }
